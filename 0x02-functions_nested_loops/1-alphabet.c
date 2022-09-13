@@ -1,9 +1,9 @@
 #include "main.h"
-/*
- * main - code to print a to z
- *
- * Return 0 means successful
+
+/**
+ * print_alphabet -> prints the lowercase alphabets
  */
+
 void print_alphabet(void)
 {
 	int j;
