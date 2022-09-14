@@ -1,4 +1,3 @@
-Task 13
 #include <stdio.h>
 /**
  * main - prints natural numbers below 1024 that are
