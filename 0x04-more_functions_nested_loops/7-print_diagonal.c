@@ -1,4 +1,4 @@
-i#include "main.h"
+#include "main.h"
 
 /**
  * * print_diagonal -> printing line
@@ -21,5 +21,3 @@ void print_diagonal(int n)
 		}
 	}
 }
-Footer
-© 2022 GitHub, Inc.
